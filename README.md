@@ -7,8 +7,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gizem-g%C3%BCne%C5%9F-ab35231b8/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@whiteswan1697)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codextreme20/)
-
-
+<br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Gizem346&show_icons=true&theme=vision-friendly-dark" align='left' width="55%">
 
 <br><br><br><br><br><br><br>
