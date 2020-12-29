@@ -10,7 +10,7 @@
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Gizem346&show_icons=true&theme=vision-friendly-dark" align='left' width="55%">
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 -I am working to become a full stack developer who is successful in her job. And I will ✌
 
